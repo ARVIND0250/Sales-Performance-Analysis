@@ -6,6 +6,10 @@ This project analyzes 500 sales transactions using Microsoft Excel to evaluate s
 
 An interactive Excel dashboard is created using PivotTables, PivotCharts, KPI cards, and slicers to transform raw sales data into meaningful business insights.
 
+## Dashboard Preview
+
+![Sales Performance Dashboard](Screenshot%20%281%29.png)
+
 ## Tools & Technologies
 
 - Microsoft Excel
